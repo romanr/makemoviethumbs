@@ -3,7 +3,7 @@
 # Filename includes the (approximate) timestamp of the video
 
 # Original coding by Tim Pozar, www.lns.com
-# Adapted by Martin Weiss, 2016  www.weiss.no
+# Adapted by Martin Weiss, 2016, www.weiss.no
 
 #!/bin/bash
 
